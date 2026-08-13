@@ -1,0 +1,66 @@
+{
+  "submission_id": "39b7787eb48981f1ac11dce180dc17d2",
+  "submitter": "Katie Treharne",
+  "city": "Funchal",
+  "country": "Portugal (Madeira)",
+  "prepared_at": "2026-08-13T22:12:33Z",
+  "numbeo": {
+    "status": "failed",
+    "url": "https://www.numbeo.com/cost-of-living/in/Funchal-Portugal-%28Madeira%29?displayCurrency=USD",
+    "error": "HTTPError: HTTP Error 503: ",
+    "rows": [
+      {
+        "label": "Meal (inexpensive restaurant)",
+        "value": null,
+        "numbeo_row": "Meal, Inexpensive Restaurant"
+      },
+      {
+        "label": "Bottle of water (0.33L)",
+        "value": null,
+        "numbeo_row": "Water (0.33 liter bottle)"
+      },
+      {
+        "label": "Apartment (1-bed, city centre)",
+        "value": null,
+        "numbeo_row": "Apartment (1 bedroom) in City Centre"
+      },
+      {
+        "label": "Internet (60 Mbps+, unlimited data)",
+        "value": null,
+        "numbeo_row": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)"
+      },
+      {
+        "label": "Monthly transport pass",
+        "value": null,
+        "numbeo_row": "Monthly Pass (Regular Price)"
+      }
+    ]
+  },
+  "photos": [
+    {
+      "url": "https://raw.githubusercontent.com/c3rra/dntr-photos/main/39b7787eb48981f1ac11dce180dc17d2/photo-1.jpg",
+      "original_name": "IMG_7710.heic",
+      "converted_from_heic": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/c3rra/dntr-photos/main/39b7787eb48981f1ac11dce180dc17d2/photo-2.jpg",
+      "original_name": "IMG_7755.heic",
+      "converted_from_heic": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/c3rra/dntr-photos/main/39b7787eb48981f1ac11dce180dc17d2/photo-3.jpg",
+      "original_name": "IMG_1781.heic",
+      "converted_from_heic": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/c3rra/dntr-photos/main/39b7787eb48981f1ac11dce180dc17d2/photo-4.jpg",
+      "original_name": "IMG_1848.heic",
+      "converted_from_heic": true
+    },
+    {
+      "url": "https://raw.githubusercontent.com/c3rra/dntr-photos/main/39b7787eb48981f1ac11dce180dc17d2/photo-5.jpg",
+      "original_name": "IMG_2114.heic",
+      "converted_from_heic": true
+    }
+  ]
+}
