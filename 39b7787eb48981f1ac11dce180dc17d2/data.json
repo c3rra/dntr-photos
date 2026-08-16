@@ -3,11 +3,11 @@
   "submitter": "Katie Treharne",
   "city": "Funchal",
   "country": "Portugal (Madeira)",
-  "prepared_at": "2026-08-13T22:17:10Z",
+  "prepared_at": "2026-08-16T15:36:08Z",
   "numbeo": {
     "status": "failed",
     "url": "https://www.numbeo.com/cost-of-living/in/Funchal-Portugal?displayCurrency=USD",
-    "error": "HTTPError: HTTP Error 503: ",
+    "error": "Numbeo served its Access Forbidden page",
     "rows": [
       {
         "label": "Meal (inexpensive restaurant)",
