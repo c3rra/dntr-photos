@@ -1,0 +1,40 @@
+{
+  "submission_id": "3be7787eb4898102a6d4eacb4f286a69",
+  "submitter": "Lora",
+  "city": "Phuket",
+  "country": "Thailand",
+  "prepared_at": "2026-08-16T15:30:55Z",
+  "numbeo": {
+    "status": "failed",
+    "url": "https://www.numbeo.com/cost-of-living/in/Phuket-Thailand?displayCurrency=USD",
+    "error": "HTTPError: HTTP Error 503: ",
+    "rows": [
+      {
+        "label": "Meal (inexpensive restaurant)",
+        "value": null,
+        "numbeo_row": "Meal, Inexpensive Restaurant"
+      },
+      {
+        "label": "Bottle of water (0.33L)",
+        "value": null,
+        "numbeo_row": "Water (0.33 liter bottle)"
+      },
+      {
+        "label": "Apartment (1-bed, city centre)",
+        "value": null,
+        "numbeo_row": "Apartment (1 bedroom) in City Centre"
+      },
+      {
+        "label": "Internet (60 Mbps+, unlimited data)",
+        "value": null,
+        "numbeo_row": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)"
+      },
+      {
+        "label": "Monthly transport pass",
+        "value": null,
+        "numbeo_row": "Monthly Pass (Regular Price)"
+      }
+    ]
+  },
+  "photos": []
+}
