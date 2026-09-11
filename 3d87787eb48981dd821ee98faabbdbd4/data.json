@@ -5,36 +5,36 @@
   "country": "Germany",
   "prepared_at": "2026-09-11T10:38:07Z",
   "numbeo": {
-    "status": "failed",
-    "url": "https://www.numbeo.com/cost-of-living/in/Berlin-Germany?displayCurrency=USD",
-    "error": "HTTPError: HTTP Error 503: ",
+    "status": "ok",
+    "url": "https://www.numbeo.com/cost-of-living/in/Berlin?displayCurrency=USD",
     "rows": [
       {
         "label": "Meal (inexpensive restaurant)",
-        "value": null,
+        "value": "$17.40",
         "numbeo_row": "Meal, Inexpensive Restaurant"
       },
       {
         "label": "Bottle of water (0.33L)",
-        "value": null,
+        "value": "$3.22",
         "numbeo_row": "Water (0.33 liter bottle)"
       },
       {
         "label": "Apartment (1-bed, city centre)",
-        "value": null,
+        "value": "$1,552.93",
         "numbeo_row": "Apartment (1 bedroom) in City Centre"
       },
       {
         "label": "Internet (60 Mbps+, unlimited data)",
-        "value": null,
+        "value": "$50.67",
         "numbeo_row": "Internet (60 Mbps or More, Unlimited Data, Cable/ADSL)"
       },
       {
         "label": "Monthly transport pass",
-        "value": null,
+        "value": "$73.08",
         "numbeo_row": "Monthly Pass (Regular Price)"
       }
-    ]
+    ],
+    "source_note": "Read by hand in Chrome 2026-09-11; Numbeo last update 9 Sep 2026. Berlin-Germany slug does not exist on Numbeo."
   },
   "photos": [
     {
